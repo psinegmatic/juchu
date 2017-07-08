@@ -1,0 +1,24 @@
+{
+  "name": "optimizedhtml",
+  "description": "Start HTML Template",
+  "main": "index.js",
+  "authors": [
+    "html"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "bxslider-4": "^4.2.12",
+    "owl.carousel": "^2.2.1"
+  }
+}
