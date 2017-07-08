@@ -1,5 +1,7 @@
 /node_modules/
 /build/
+/app/libs/
 /app/css/
 /**/*.psd
 /**/Thumbs.db
+*.DS_Store
